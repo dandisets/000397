@@ -53,7 +53,7 @@ contributor:
   name: Paulk, Angelique C
   roleName:
   - dcite:Author
-  - dcite:Conceptualization
+  - dcite:ContactPerson
   schemaKey: Person
 - affiliation:
   - identifier: https://ror.org/002pd6e78
