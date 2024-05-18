@@ -33,7 +33,7 @@ assetsSummary:
 citation: Paulk, Angelique C; Kfir, Yoav; Khanna, Arjun R; Mustroph, Martina L; Trautmann,
   Eric M; Soper, Dan J; Stavisky, Sergey D; Welkenhuysen, Marleen; Dutta, Barundeb;
   Shenoy, Krisha V; Hochberg, Leigh R; Richardson, R. Mark; Williams, Ziv M; Cash,
-  Sydney S (2022) Large-scale neural recordings with single neuron resolution using
+  Sydney S (2024) Large-scale neural recordings with single neuron resolution using
   Neuropixels probes in human cortex (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000397/draft
 contributor:
 - affiliation: []
@@ -226,6 +226,7 @@ relatedResource:
     probes in human cortex
   relation: dcite:IsDescribedBy
   repository: Nature Neuroscience
+  resourceType: dcite:JournalArticle
   schemaKey: Resource
   url: https://www.nature.com/articles/s41593-021-00997-0
 - identifier: https://doi.org/10.5061/dryad.d2547d840
